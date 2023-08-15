@@ -1,2 +1,4 @@
-# dino-chrome-game
- game with dino from chrome on python
+# Start
+
+* Устанавливаем зависимости из requirements.txt
+* [в терминале] python main.py
